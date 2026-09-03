@@ -1,6 +1,6 @@
 # {-}
 
-![R Development Guide. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: https://zenodo.org/records/13882307](img/r-dev-guide-without-text.jpg){height=400px width=550px}
+![R Development Guide. This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: https://zenodo.org/records/13882307](img/r-dev-guide-without-text.jpg){height=400px width=550px}\
 
 # Acknowledgement {-}
 
@@ -11,6 +11,6 @@ Initial chapters of the guide were developed by Saranjeet Kaur Bhogal, in a proj
 This guide has benefited and continues to benefit from varied contributions by several [contributors](https://github.com/r-devel/rdevguide#contributors-). 
 
 
-[![License: CC BY 4.0](img/ccby.png)](https://creativecommons.org/licenses/by/4.0/){width=180px}
+[![License: CC BY 4.0](img/ccby.png)](https://creativecommons.org/licenses/by/4.0/){width=180px}\
 
 This project is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Some pages may contain materials that are subject to copyright, in which case you will see the copyright notice.
